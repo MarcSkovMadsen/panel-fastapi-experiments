@@ -1,2 +1,2 @@
 -e .[dev]
-jupyter-vscode-proxy
+jupyter-server-proxy
