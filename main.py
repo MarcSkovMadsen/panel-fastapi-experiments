@@ -3,8 +3,6 @@ import panel as pn
 from fastapi import FastAPI, Request
 from panel.io.fastapi import add_application
 
-pn.config.inline=False
-
 app = FastAPI()
 
 @app.get("/")

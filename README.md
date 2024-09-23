@@ -1,4 +1,4 @@
-# panel-fastapi-experiments [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MarcSkovMadsen/panel-fastapi-experiments.git/HEAD)
+# panel-fastapi-experiments [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MarcSkovMadsen/panel-fastapi-experiments.git/HEAD) [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/MarcSkovMadsen/panel-fastapi-experiments)
 
 An example repository for experimenting with Panel and FastAPI as described in
 the [Running Panel apps in FastAPI](https://panel.holoviz.org/how_to/integrations/FastAPI.html)
